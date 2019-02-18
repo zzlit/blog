@@ -13,4 +13,4 @@ let intersect = (nums1, nums2) => {
   return arr
 }
 ```
-然后日常优化
+然后日常优化，好像暂时还没找到好的方法。。
